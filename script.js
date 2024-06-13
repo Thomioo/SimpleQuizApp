@@ -272,7 +272,7 @@ data = {
         "Kukuřice",
         "Proso",
         "Čirok",
-        "Rýře",
+        "Rýže",
         "Třtinovec",
         "Bambus",
         // "Bojínek",

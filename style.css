@@ -1,0 +1,48 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 350%;
+}
+
+#question {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 200%;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+#output {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 100%;
+}
+
+#vertical {
+    margin-top: 50px;
+}
+
+#horizontal {
+    display: block;
+    margin: auto;
+    width: 500px;
+    text-align: center;
+}
+
+button {
+    font-size: calc(1vw + 1vh);
+    width: 20vw;
+    height: 20vh;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: lightcyan;
+}
+
+button:active {
+    background-color: lightblue;
+}
+
+* {
+    user-select: none;
+}

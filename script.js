@@ -289,49 +289,49 @@ data = {
         "Rákos",
         // "Ježatka",
         // "Zaječí ocásek"
-    ],
-    "Chřestovité": [
-        // "Chřest", 
-        "Sněženka",
-        "Bledule",
-        "Narcis"
-    ],
-    "Zázvorníkovité": [
-        "Zázvor",
-        // "Kurkumovník",
-        // "Kardamovník"
-    ],
-    "Banánovníkovité": [
-        "Banánovník"
-    ],
-    // "Strelicovité": [
-    //     "Strelíce"
-    // ],
-    "Broméliovité": [
-        "Ananasovník",
-        // "Bromélie"
-    ],
-    "Vavřínovité": [
-        "Skořicovník",
-        "Vavřín"
-    ],
-    "Meruzalkovité": [
-        "Rybíz",
-        // "Srstka"
-    ],
-    "Konopovité": [
-        "Chmel",
-        "Konopí"
-    ],
-    "Tykvovité ": [
-        // "Lubenice",
-        "Okurka",
-        "Tykev"
-    ],
-    "Slézovité": [
-        "Lípa",
-        // "Ibišek"
     ]
+    // "Chřestovité": [
+    //     // "Chřest", 
+    //     "Sněženka",
+    //     "Bledule",
+    //     "Narcis"
+    // ],
+    // "Zázvorníkovité": [
+    //     "Zázvor",
+    //     // "Kurkumovník",
+    //     // "Kardamovník"
+    // ],
+    // "Banánovníkovité": [
+    //     "Banánovník"
+    // ],
+    // // "Strelicovité": [
+    // //     "Strelíce"
+    // // ],
+    // "Broméliovité": [
+    //     "Ananasovník",
+    //     // "Bromélie"
+    // ],
+    // "Vavřínovité": [
+    //     "Skořicovník",
+    //     "Vavřín"
+    // ],
+    // "Meruzalkovité": [
+    //     "Rybíz",
+    //     // "Srstka"
+    // ],
+    // "Konopovité": [
+    //     "Chmel",
+    //     "Konopí"
+    // ],
+    // "Tykvovité ": [
+    //     // "Lubenice",
+    //     "Okurka",
+    //     "Tykev"
+    // ],
+    // "Slézovité": [
+    //     "Lípa",
+    //     // "Ibišek"
+    // ]
 }
 
 function generate() {

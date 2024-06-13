@@ -1,13 +1,13 @@
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    font-size: calc(1.5vw + 1.5vh);
+    font-size: calc(2.5vw + 2.5vh);
 }
 
 #question {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    font-size: calc(1vw + 1vh);
+    font-size: calc(2vw + 2vh);
     margin-top: -10px;
     margin-bottom: -10px;
 }
@@ -15,7 +15,7 @@ h1 {
 #output {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    font-size: calc(1vw + 1vh);
+    font-size: calc(1.5vw + 1.5vh);
 }
 
 #vertical {

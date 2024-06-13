@@ -23,7 +23,7 @@ h1 {
 }
 
 #horizontal {
-    display: block;
+    display: flexbox;
     margin: auto;
     width: 500px;
     text-align: center;
